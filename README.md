@@ -1,5 +1,5 @@
 # XPS 13 9310 Linux (Ubuntu mainly)
-A place for people to post issues about Linux (any distro) on Dell XPS 13 9310. 
+This repo is a place for people to post issues about Linux (any distro) on Dell XPS 13 9310. I mainly work with Ubuntu so I'll share my experience below.
 
 Currently, my issues are: couldn't install ubuntu 20.10, so I installed 20.04. The kernel that comes with it won't make touchscreen and sleep work, so I upgraded to 5.8, but 5.10 also worked fine.
 
